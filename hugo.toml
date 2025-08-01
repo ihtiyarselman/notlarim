@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'tr-tr'
+title = '/unlocked'
+theme = 'hugo-theme-stack'

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>/unlocked</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on /unlocked</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>tr-tr</language>
+        <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My First Post</title>
+        <link>http://localhost:1313/posts/my-first-post/</link>
+        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/my-first-post/</guid>
+        <description>&lt;h1 id=&#34;-hayatımı-düzene-sokma-planı&#34;&gt;🧩 Hayatımı Düzene Sokma Planı
+&lt;/h1&gt;&lt;h2 id=&#34;-tespitler&#34;&gt;🔍 Tespitler
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Temel Sorun:&lt;/strong&gt; Disiplinsizlik ve irade eksikliği&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Çözüm Yaklaşımı:&lt;/strong&gt; Mikro alışkanlıklar ile sistem oluşturmak&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-3-temel-strateji&#34;&gt;⚙️ 3 Temel Strateji
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;5 Saniye Kuralı&lt;/strong&gt;&lt;br&gt;
+&amp;ldquo;Düşünme → 5-4-3-2-1 → Harekete Geç&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Öz-Şefkat Uygulaması&lt;/strong&gt;&lt;br&gt;
+&amp;ldquo;Zaten bozdum!&amp;rdquo; YERİNE &amp;ldquo;İnsani tepki, devam edelim!&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hata Analizi Sistemi&lt;/strong&gt;&lt;br&gt;
+Hata → &amp;ldquo;Bu neden oldu?&amp;rdquo; → Çözüm → Sistem Güncelleme&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-günlük-plan-30-temmuz&#34;&gt;🗓️ Günlük Plan: 30 Temmuz
+&lt;/h2&gt;&lt;h3 id=&#34;-sabah&#34;&gt;⛅ Sabah
+&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Zaman&lt;/th&gt;
+          &lt;th&gt;Aktivite&lt;/th&gt;
+          &lt;th&gt;Mikro-Hedef&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;07:00&lt;/td&gt;
+          &lt;td&gt;Uyanma&lt;/td&gt;
+          &lt;td&gt;Alarm + Pencere aç + 5 saniye kuralı&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;07:15-08:00&lt;/td&gt;
+          &lt;td&gt;Yürüyüş&lt;/td&gt;
+          &lt;td&gt;Sadece ayakkabı giy &amp;amp; kapıdan çık&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;-öğlen-öncesi&#34;&gt;☀️ Öğlen Öncesi
+&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Zaman&lt;/th&gt;
+          &lt;th&gt;Aktivite&lt;/th&gt;
+          &lt;th&gt;Teknik&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;08:30-09:00&lt;/td&gt;
+          &lt;td&gt;Kitap Okuma&lt;/td&gt;
+          &lt;td&gt;Pomodoro 25/5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09:30-10:00&lt;/td&gt;
+          &lt;td&gt;Esneme Hareketleri&lt;/td&gt;
+          &lt;td&gt;Sadece 10 dakika başla&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;-öğlen&#34;&gt;🕛 Öğlen
+&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Zaman&lt;/th&gt;
+          &lt;th&gt;Aktivite&lt;/th&gt;
+          &lt;th&gt;Motivasyon&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:00-11:30&lt;/td&gt;
+          &lt;td&gt;Dans Antrenmanı&lt;/td&gt;
+          &lt;td&gt;1 koreografi tekrarı&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;-öğlen-sonrası&#34;&gt;🌆 Öğlen Sonrası
+&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Zaman&lt;/th&gt;
+          &lt;th&gt;Aktivite&lt;/th&gt;
+          &lt;th&gt;Odak Hedefi&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12:30-13:30&lt;/td&gt;
+          &lt;td&gt;Antropoloji Çalışması&lt;/td&gt;
+          &lt;td&gt;Pomodoro 50/10&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:00-15:00&lt;/td&gt;
+          &lt;td&gt;Web Sitesi Çalışması&lt;/td&gt;
+          &lt;td&gt;1 HTML/CSS özelliği&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;-akşam&#34;&gt;🌙 Akşam
+&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Zaman&lt;/th&gt;
+          &lt;th&gt;Aktivite&lt;/th&gt;
+          &lt;th&gt;Felsefe&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;18:00&lt;/td&gt;
+          &lt;td&gt;Temel Vücut Egzersizi&lt;/td&gt;
+          &lt;td&gt;&amp;ldquo;Başlama&amp;rdquo; odağı&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
