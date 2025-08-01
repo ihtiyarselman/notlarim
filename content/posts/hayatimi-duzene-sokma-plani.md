@@ -1,7 +1,9 @@
-+++
-date = '2025-08-01T18:22:16+03:00'
-title = 'Hayatımı Düzene Sokma Planı'
-+++
+---
+date: 2025-08-01T18:22:16+03:00
+title: "Hayatımı Düzene Sokma Planı"
+draft: false
+---
+
 ## Tespit
 Hayatımdaki düzensizliğin temel sebepleri **disiplinsizlik** ve **irade eksikliği**. Çözüm için mikro alışkanlıklarla başlıyorum. Küçük adımlar, gözümde büyüyen yükleri aşmamı sağlayacak.
 
