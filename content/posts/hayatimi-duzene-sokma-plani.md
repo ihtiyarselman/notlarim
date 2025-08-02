@@ -1,7 +1,8 @@
 ---
 date: 2025-08-01T18:22:16+03:00
-title: "Hayatımı Düzene Sokma Planı"
+title: Hayatımı Düzene Sokma Planı
 draft: false
+toc: true
 ---
 
 ## Tespit
