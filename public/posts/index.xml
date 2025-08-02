@@ -6,56 +6,7 @@
         <description>Recent content in Posts on /unlocked</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>tr-tr</language>
-        <lastBuildDate>Sat, 02 Aug 2025 12:30:03 +0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Toc</title>
-        <link>http://localhost:1313/posts/toc/</link>
-        <pubDate>Sat, 02 Aug 2025 12:30:03 +0300</pubDate>
-        
-        <guid>http://localhost:1313/posts/toc/</guid>
-        <description>&lt;h2 id=&#34;tespit&#34;&gt;Tespit
-&lt;/h2&gt;&lt;p&gt;Hayatımdaki düzensizliğin temel sebepleri &lt;strong&gt;disiplinsizlik&lt;/strong&gt; ve &lt;strong&gt;irade eksikliği&lt;/strong&gt;. Çözüm için mikro alışkanlıklarla başlıyorum. Küçük adımlar, gözümde büyüyen yükleri aşmamı sağlayacak.&lt;/p&gt;
-&lt;h2 id=&#34;stratejilerim&#34;&gt;Stratejilerim
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;5 Saniye Kuralı&lt;/strong&gt;&lt;br&gt;
-Bir eylemi yapmayı düşünür düşünmez &lt;code&gt;5-4-3-2-1&lt;/code&gt; sayıp harekete geçeceğim. Düşünmek direnci artırır.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Öz-Şefkat&lt;/strong&gt;&lt;br&gt;
-Bir gün kaçırırsam &lt;em&gt;&amp;ldquo;Zaten bozdum&amp;rdquo;&lt;/em&gt; demeyeceğim. Stanford araştırmaları, öz-şefkatin disiplini &lt;strong&gt;%42 artırdığını&lt;/strong&gt; kanıtlıyor.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Hataları Veriye Dönüştürmek&lt;/strong&gt;&lt;br&gt;
-Aksaklıkları suçlulukla değil, &lt;em&gt;&amp;ldquo;Bu neden oldu?&amp;rdquo;&lt;/em&gt; sorusuyla analiz edip çözüme odaklanacağım.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;yarınki-30-temmuz-gerçekçi-plan&#34;&gt;Yarınki (30 Temmuz) Gerçekçi Plan
-&lt;/h2&gt;&lt;h3 id=&#34;sabah&#34;&gt;Sabah
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;☀️ &lt;strong&gt;07:00&lt;/strong&gt; | Uyanma &lt;em&gt;(Alarmı kur, pencereyi aç, 5 saniye kuralını uygula)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;🚶 &lt;strong&gt;07:15-08:00&lt;/strong&gt; | Yürüyüş &lt;em&gt;(Hafif tempolu; mikro hedef: sadece ayakkabılarını giy ve kapıdan çık)&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;öğlen-öncesi&#34;&gt;Öğlen Öncesi
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;📚 &lt;strong&gt;08:30-09:00&lt;/strong&gt; | Kitap Okuma &lt;em&gt;(Mikro hedef: Pomodoro: 25 dk okuma + 5 dk mola)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;🧘 &lt;strong&gt;09:30-10:00&lt;/strong&gt; | Esneme Hareketleri &lt;em&gt;(10 dk ile başla; &amp;ldquo;spor&amp;rdquo; gözünde büyümesin)&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;öğlen&#34;&gt;Öğlen
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;💃 &lt;strong&gt;11:00-11:30&lt;/strong&gt; | Dans Antrenmanı &lt;em&gt;(Sevdiğin bir şarkıyla mikro başlangıç: &amp;ldquo;Sadece 1 koreografi tekrarı&amp;rdquo;)&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;öğlen-sonrası&#34;&gt;Öğlen Sonrası
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;📖 &lt;strong&gt;12:30-13:30&lt;/strong&gt; | Antropoloji Çalışma &lt;em&gt;(Pomodoro: 50 dk odaklanma + 10 dk mola)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;💻 &lt;strong&gt;14:00-15:00&lt;/strong&gt; | Web Sitesi Çalışması &lt;em&gt;(HTML/CSS; hedef: sadece 1 özellik ekle)&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;akşam&#34;&gt;Akşam
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;💪 &lt;strong&gt;18:00&lt;/strong&gt; | Temel Vücut Egzersizi &lt;em&gt;(&amp;ldquo;Tamamlamak&amp;rdquo; odaklı değil, &amp;ldquo;başlamak&amp;rdquo; odaklı)&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Fri, 01 Aug 2025 18:22:16 +0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hayatımı Düzene Sokma Planı</title>
         <link>http://localhost:1313/posts/hayatimi-duzene-sokma-plani/</link>
         <pubDate>Fri, 01 Aug 2025 18:22:16 +0300</pubDate>
